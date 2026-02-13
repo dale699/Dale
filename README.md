@@ -58,10 +58,10 @@
     <div class="message-board">
         <h2>Messages from Our Section</h2>
         <ul>
-            <li>From Alex: "You're the best study buddy ever! Happy V-Day!"</li>
-            <li>From Jordan: "Thanks for the laughs in class. You're awesome!"</li>
-            <li>From Taylor: "Group projects are fun with you. Love ya!"</li>
-            <!-- Add more messages here -->
+            <li>"You're the best study buddy ever! Happy V-Day!"</li>
+            <li>"Thanks for the laughs in class. You're awesome!"</li>
+            <li>"Group projects are fun with you. Love ya!"</li>
+            <!-- Add more messages here -->Best Section In My Whole Life
         </ul>
     </div>
     
